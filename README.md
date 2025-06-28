@@ -40,3 +40,24 @@ Well-defined requirements provide a solid foundation for estimating time, budget
 ### 3. Improves Product Quality and User Satisfaction
 
 When requirements are aligned with user needs, the resulting software is far more likely to be functional, user-friendly, and impactful. Good analysis means fewer reworks, better testing alignment, and ultimately, a product that truly solves the right problems.
+
+---
+
+## Key Activities in Requirement Analysis
+
+Effective requirement analysis involves a sequence of collaborative and analytical activities that shape the foundation of a software project. Here are the five core activities:
+
+- **Requirement Gathering**  
+  This is the process of collecting all potential requirements from stakeholders such as clients, users, and domain experts. It sets the groundwork by identifying what the system must accomplish.
+
+- **Requirement Elicitation**  
+  Goes deeper than gathering—elicitation involves actively engaging with stakeholders through interviews, surveys, workshops, and observation to uncover hidden needs, constraints, and priorities.
+
+- **Requirement Documentation**  
+  Capturing the gathered and elicited information in clear, structured formats like Software Requirement Specifications (SRS), user stories, or use cases. Good documentation ensures traceability and serves as a reference for design and testing.
+
+- **Requirement Analysis and Modeling**  
+  Involves refining and categorizing the requirements, checking for completeness, consistency, and feasibility. Techniques like data flow diagrams, UML models, or user journey mapping are often used here.
+
+- **Requirement Validation**  
+  The final step ensures that the documented requirements truly reflect stakeholder intentions. This can involve reviews, walkthroughs, and formal approval processes, helping to catch errors early and align expectations.
