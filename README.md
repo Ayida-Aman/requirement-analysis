@@ -87,3 +87,37 @@ Non-functional requirements describe how the system performs rather than what it
 - **Security:** All sensitive data, including payment details and personal information, must be encrypted and comply with GDPR.
 - **Availability:** The system should maintain 99.9% uptime to ensure continuous access for users and hotel partners.
 - **Usability:** The interface should be intuitive and accessible, supporting both desktop and mobile users with responsive design.
+
+---
+
+## Use Case Diagrams
+
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and a system. They help illustrate the system’s functionality from the user's perspective, showing what the system does rather than how it does it.
+
+### Benefits of Use Case Diagrams
+
+- **Clarify System Scope:** They define what is inside and outside the system boundary, helping teams focus on relevant features.
+- **Improve Communication:** Use Case Diagrams provide a simple, visual way to communicate requirements with both technical and non-technical stakeholders.
+- **Support Planning and Testing:** They serve as a foundation for identifying test cases and planning development tasks.
+
+### Use Case Diagram for the Booking System
+
+The diagram below illustrates the primary actors and use cases for a hotel booking system inspired by platforms like Airbnb and OYO.
+
+**Actors:**
+- Guest
+- Receptionist
+- Hotel Manager
+- Payment Gateway
+
+**Use Cases:**
+- Search Hotels
+- Book Room
+- Modify Booking
+- Cancel Booking
+- Check-in / Check-out
+- Process Payment
+- Manage Room Availability
+- View Booking History
+
+![Use Case Diagram for Booking System](image/useCase.png)
