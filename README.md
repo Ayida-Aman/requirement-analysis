@@ -120,4 +120,4 @@ The diagram below illustrates the primary actors and use cases for a hotel booki
 - Manage Room Availability
 - View Booking History
 
-![Use Case Diagram for Booking System](image/useCase.png)
+![Use Case Diagram for Booking System](alx-booking-uc.png)
