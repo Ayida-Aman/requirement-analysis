@@ -61,3 +61,29 @@ Effective requirement analysis involves a sequence of collaborative and analytic
 
 - **Requirement Validation**  
   The final step ensures that the documented requirements truly reflect stakeholder intentions. This can involve reviews, walkthroughs, and formal approval processes, helping to catch errors early and align expectations.
+
+## Types of Requirements
+
+In software development, requirements are generally categorized into two main types: **Functional Requirements** and **Non-functional Requirements**. Both are essential for building a robust and user-centric system. Below are definitions and examples specific to a hotel booking management system.
+
+### Functional Requirements
+
+Functional requirements define what the system should do—its core features and behaviors. These are directly tied to user interactions and business logic.
+
+**Examples for the Booking Management Project:**
+- **User Registration and Authentication:** Users should be able to sign up, log in, and manage their profiles securely.
+- **Search and Filter Hotels:** Users can search for hotels based on location, price, availability, and amenities.
+- **Room Booking:** Users can select a room, choose check-in/check-out dates, and confirm a reservation.
+- **Payment Integration:** The system should support secure online payments via credit/debit cards or digital wallets.
+- **Booking History:** Users can view, modify, or cancel their past and upcoming bookings.
+
+### Non-functional Requirements
+
+Non-functional requirements describe how the system performs rather than what it does. They focus on quality attributes like performance, security, and usability.
+
+**Examples for the Booking Management Project:**
+- **Performance:** The system should return hotel search results within 2 seconds under normal load.
+- **Scalability:** The platform must support up to 100,000 concurrent users during peak travel seasons.
+- **Security:** All sensitive data, including payment details and personal information, must be encrypted and comply with GDPR.
+- **Availability:** The system should maintain 99.9% uptime to ensure continuous access for users and hotel partners.
+- **Usability:** The interface should be intuitive and accessible, supporting both desktop and mobile users with responsive design.
